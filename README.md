@@ -2,7 +2,7 @@
   <img src="./holdrlogo.png" alt="Holdr" width="420"/>
 </p>
 
-# Holdr
+# Holdr - Simon Wicki
 
 Holdr is a continuous on-chain holder ranking system designed to measure, score, and reward sustained ownership behavior over time.
 
